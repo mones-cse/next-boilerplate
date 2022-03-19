@@ -4,7 +4,7 @@ Each branch contains certain library
 
 ## Branches
 
-- **main**: next.js + typescript + eslint + prettier + husky
+- **[main](https://github.com/mones-cse/next-boilerplate)**: next.js + typescript + eslint + prettier + husky
 
 ## Resources
 
