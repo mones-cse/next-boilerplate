@@ -1,25 +1,16 @@
+# Next.js boilerplate
+
+Each branch contains certain library
+
+## Branches
+
+- **main**: next.js + typescript + eslint + prettier + husky
+
+## Resources
+
+- [next.js](https://nextjs.org/docs)
+- [prettier.io](https://prettier.io/docs/en/install.html)
+- [husky](https://github.com/typicode/husky)
+- [youtube guide](https://www.youtube.com/watch?v=XJBqLIvXE0U&ab_channel=Farstep%E3%80%90%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%AC%9B%E5%BA%A7%E3%80%91)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-# Boilerplate contains
-
-- eslint
-- prettier
-- husky
