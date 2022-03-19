@@ -4,7 +4,8 @@ Each branch contains certain library
 
 ## Branches
 
-- **main**: next.js + typescript + eslint + prettier + husky
+- **[main](https://github.com/mones-cse/next-boilerplate/tree/main)**: next.js + typescript + eslint + prettier + husky
+- **[next-antd](https://github.com/mones-cse/next-boilerplate/tree/next-antd)**: next.js + antd + typescript + eslint + prettier + husky + babel
 
 ## Resources
 
