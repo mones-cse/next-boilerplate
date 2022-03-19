@@ -2,7 +2,7 @@ import type { NextPage } from 'next';
 import Head from 'next/head';
 import Image from 'next/image';
 import styles from '../styles/Home.module.css';
-import { DatePicker } from 'antd';
+import { DatePicker, Button } from 'antd';
 
 const Home: NextPage = () => {
   const a = 'a';
@@ -17,6 +17,9 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <DatePicker />
+        <Button type={'primary'} style={{ margin: '10px' }}>
+          Click me
+        </Button>
       </main>
 
       <footer className={styles.footer}>
